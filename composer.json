@@ -1,0 +1,20 @@
+{
+    "name": "gabrysiak/randnum",
+    "description": "Generates 2 random numbers and checks if they are equal",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Tom Gabrysiak",
+            "email": "tom@tomgabrysiak.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "RandNum": "src/"
+        }
+    }
+}
